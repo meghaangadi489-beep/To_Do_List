@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "A modern glassmorphism task management workspace for organizing priorities, deadlines, and daily focus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
